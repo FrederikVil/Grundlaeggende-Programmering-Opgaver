@@ -1,8 +1,7 @@
 ﻿using System;
 
-namespace If_greater_than_third_one
+namespace If_Greater_Than_Third_ONe
 {
-
     /// <summary>
     /// Et array med 3 tal hvor den skal være true hvis tal 1 plus 2 eller tal 1 gange tal 2 er større end tal 3.
     /// </summary>
@@ -14,7 +13,7 @@ namespace If_greater_than_third_one
 
             if (tal[0] + tal[1] > tal[2] || tal[0] * tal[1] > tal[2])
             {
-                Console.WriteLine("True");  
+                Console.WriteLine("True");
             }
             else
             {

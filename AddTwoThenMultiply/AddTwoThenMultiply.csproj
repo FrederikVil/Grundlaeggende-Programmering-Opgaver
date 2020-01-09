@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Divisible_by_two_or_three</RootNamespace>
   </PropertyGroup>
 
 </Project>

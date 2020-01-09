@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>If_year_is_leap</RootNamespace>
+    <RootNamespace>If_Year_Is_Leap</RootNamespace>
   </PropertyGroup>
 
 </Project>

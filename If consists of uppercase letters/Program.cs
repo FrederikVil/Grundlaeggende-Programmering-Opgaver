@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace If_consists_of_uppercase_letters
+namespace If_Consists_of_uppercase_letters
 {
     /// <summary>
     /// Man skriver et ord på 3 bogstaver, og så tjekker programmet om alle bogstaver er store.
@@ -24,11 +24,6 @@ namespace If_consists_of_uppercase_letters
                 Console.WriteLine("False");
             }
 
-            
-
-
-
-            
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace If_sorted_ascending
+namespace If_Sorted_Ascending
 {
     /// <summary>
     /// Programmet tjekker et array med et for loop, for at se om tallene er sorteret fra lavest til størst.
@@ -9,7 +9,7 @@ namespace If_sorted_ascending
     {
         public static void Main(String[] args)
         {
-            int[] array = { 3, 5, 6, 7, 4};
+            int[] array = { 3, 5, 6, 7, 4 };
             Console.WriteLine(IsSorted(array));
         }
         public static bool IsSorted(int[] a)
@@ -20,12 +20,11 @@ namespace If_sorted_ascending
             {
                 if (a[i] > a[i + 1])
                 {
-                    return false; 
+                    return false;
                 }
             }
-            return true; 
+            return true;
         }
 
     }
-    
 }

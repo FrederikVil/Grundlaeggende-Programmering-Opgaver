@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Basic_C_Sharp
+namespace AddTwoThenMultiply
 {
     class AddTwoThenMultiply
     {
@@ -24,7 +24,7 @@ namespace Basic_C_Sharp
 
 
             // De 3 givet tal lægges sammen
-            Console.WriteLine($"De 3 tal lagt sammen er: {(tal1+tal2)*tal3}");
+            Console.WriteLine($"De 3 tal lagt sammen er: {(tal1 + tal2) * tal3}");
         }
     }
 }

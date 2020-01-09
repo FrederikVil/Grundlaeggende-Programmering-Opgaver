@@ -1,8 +1,7 @@
 ﻿using System;
 
-namespace Divisible_by_two_or_three
+namespace DivisibleByTwoOrThree
 {
-
     /// <summary>
     /// Programmet tager 2 tal fra user input, og tjekker om de kan divideres med 2 eller 3 så de går i nul (modulus).
     /// Derefter ganges de 2 tal hvis det passer, ellers bliver de plusset.

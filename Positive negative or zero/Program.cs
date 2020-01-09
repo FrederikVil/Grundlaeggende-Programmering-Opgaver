@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Positive_negative_or_zero
+namespace Positive_Negative_Or_Zero
 {
     class Program
     {
         static void Main(string[] args)
         {
             double tal;
-            int control = 0; 
+            int control = 0;
 
             Console.Write("Skriv et tal: ");
             tal = Convert.ToDouble(Console.ReadLine());

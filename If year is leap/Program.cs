@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace If_year_is_leap
+namespace If_Year_Is_Leap
 {
     /// <summary>
     /// Programmet regner skudår ud, ud fra et år som man sætter ind via bruger input.
@@ -24,10 +24,6 @@ namespace If_year_is_leap
             {
                 Console.WriteLine("Not a leap year");
             }
-
-
-
-
 
         }
     }
