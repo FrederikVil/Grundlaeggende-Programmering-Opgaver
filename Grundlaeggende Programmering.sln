@@ -25,17 +25,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Absolute Value", "Absolute 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleByTwoOrThree", "DivisibleByTwoOrThree\DivisibleByTwoOrThree.csproj", "{E38049DC-FD21-4C63-BF0B-D55B90FF8918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If Consists Of Uppercase Letters", "If Consists of uppercase letters\If Consists Of Uppercase Letters.csproj", "{B3894E16-721C-4493-832A-182F07659FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If Consists Of Uppercase Letters", "If Consists of uppercase letters\If Consists Of Uppercase Letters.csproj", "{B3894E16-721C-4493-832A-182F07659FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If Greater Than Third One", "If Greater Than Third ONe\If Greater Than Third One.csproj", "{0732B4D3-63CE-4408-82B8-4E405EE7D4A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If Greater Than Third One", "If Greater Than Third ONe\If Greater Than Third One.csproj", "{0732B4D3-63CE-4408-82B8-4E405EE7D4A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If Number Is Even", "If Number Is Even\If Number Is Even.csproj", "{99BFA6D0-2CEA-447C-8BE6-C5990766C2AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If Number Is Even", "If Number Is Even\If Number Is Even.csproj", "{99BFA6D0-2CEA-447C-8BE6-C5990766C2AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If Sorted Ascending", "If Sorted Ascending\If Sorted Ascending.csproj", "{DE1EA3B6-A0B3-4408-BBFC-93C53D73D743}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If Sorted Ascending", "If Sorted Ascending\If Sorted Ascending.csproj", "{DE1EA3B6-A0B3-4408-BBFC-93C53D73D743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If Year Is Leap", "If Year Is Leap\If Year Is Leap.csproj", "{B179286A-D7ED-470A-8D21-CD3FF8ACACA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If Year Is Leap", "If Year Is Leap\If Year Is Leap.csproj", "{B179286A-D7ED-470A-8D21-CD3FF8ACACA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Positive Negative Or Zero", "Positive Negative Or Zero\Positive Negative Or Zero.csproj", "{E01DE777-19BE-4794-83BA-8C2DC9C7AEA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Positive Negative Or Zero", "Positive Negative Or Zero\Positive Negative Or Zero.csproj", "{E01DE777-19BE-4794-83BA-8C2DC9C7AEA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C Sharp Excercises Loops", "C Sharp Excercises Loops", "{E667CD3A-7914-4669-B112-C285587C973F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{714425AC-1A65-4C41-B591-F2CD081F9826}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Biggest Number", "The Biggest Number\The Biggest Number.csproj", "{9E05A495-672E-4CD2-BD2C-A182A5C0BAC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Seven's Next To Each Other", "Two Seven's Next To Each Other\Two Seven's Next To Each Other.csproj", "{44BE8DDF-D621-4374-A3E0-CFE4A65E6AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Increasing Adjacent", "Three Increasing Adjacent\Three Increasing Adjacent.csproj", "{E1290164-5917-46AA-A126-C76B892DE00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve Of Eratosthenes", "Sieve Of Eratosthenes\Sieve Of Eratosthenes.csproj", "{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C Sharp Excercises Strings", "C Sharp Excercises Strings", "{4309517D-7E43-4F1C-AAF1-3FAFA4EEE68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add seperator", "Add seperator\Add seperator.csproj", "{483F772B-E860-4328-8B47-923B492C406C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,6 +119,30 @@ Global
 		{E01DE777-19BE-4794-83BA-8C2DC9C7AEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E01DE777-19BE-4794-83BA-8C2DC9C7AEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E01DE777-19BE-4794-83BA-8C2DC9C7AEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714425AC-1A65-4C41-B591-F2CD081F9826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714425AC-1A65-4C41-B591-F2CD081F9826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714425AC-1A65-4C41-B591-F2CD081F9826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714425AC-1A65-4C41-B591-F2CD081F9826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E05A495-672E-4CD2-BD2C-A182A5C0BAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E05A495-672E-4CD2-BD2C-A182A5C0BAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E05A495-672E-4CD2-BD2C-A182A5C0BAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E05A495-672E-4CD2-BD2C-A182A5C0BAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BE8DDF-D621-4374-A3E0-CFE4A65E6AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BE8DDF-D621-4374-A3E0-CFE4A65E6AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BE8DDF-D621-4374-A3E0-CFE4A65E6AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BE8DDF-D621-4374-A3E0-CFE4A65E6AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1290164-5917-46AA-A126-C76B892DE00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1290164-5917-46AA-A126-C76B892DE00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1290164-5917-46AA-A126-C76B892DE00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1290164-5917-46AA-A126-C76B892DE00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483F772B-E860-4328-8B47-923B492C406C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483F772B-E860-4328-8B47-923B492C406C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483F772B-E860-4328-8B47-923B492C406C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483F772B-E860-4328-8B47-923B492C406C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +163,12 @@ Global
 		{DE1EA3B6-A0B3-4408-BBFC-93C53D73D743} = {2461231B-571B-4789-A0C5-638C6A02867B}
 		{B179286A-D7ED-470A-8D21-CD3FF8ACACA5} = {2461231B-571B-4789-A0C5-638C6A02867B}
 		{E01DE777-19BE-4794-83BA-8C2DC9C7AEA6} = {2461231B-571B-4789-A0C5-638C6A02867B}
+		{714425AC-1A65-4C41-B591-F2CD081F9826} = {E667CD3A-7914-4669-B112-C285587C973F}
+		{9E05A495-672E-4CD2-BD2C-A182A5C0BAC4} = {E667CD3A-7914-4669-B112-C285587C973F}
+		{44BE8DDF-D621-4374-A3E0-CFE4A65E6AC1} = {E667CD3A-7914-4669-B112-C285587C973F}
+		{E1290164-5917-46AA-A126-C76B892DE00F} = {E667CD3A-7914-4669-B112-C285587C973F}
+		{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4} = {E667CD3A-7914-4669-B112-C285587C973F}
+		{483F772B-E860-4328-8B47-923B492C406C} = {4309517D-7E43-4F1C-AAF1-3FAFA4EEE68A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B811C158-9E44-4F73-986E-11B9AA3633D3}
