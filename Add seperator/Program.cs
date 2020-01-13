@@ -9,12 +9,12 @@ namespace Add_seperator
             string str;
             char character;
 
-            Console.Write("Skriv en string");
+            Console.Write("Skriv en string: ");
             str = Convert.ToString(Console.ReadLine());
 
-            Console.Write("Skriv en character");
+            Console.Write("Skriv en character: ");
             character = Convert.ToChar(Console.ReadLine());
-
+            
             
         }
     }
