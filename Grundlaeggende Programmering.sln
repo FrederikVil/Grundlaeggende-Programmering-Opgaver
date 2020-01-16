@@ -45,13 +45,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Biggest Number", "The B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Seven's Next To Each Other", "Two Seven's Next To Each Other\Two Seven's Next To Each Other.csproj", "{44BE8DDF-D621-4374-A3E0-CFE4A65E6AC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Increasing Adjacent", "Three Increasing Adjacent\Three Increasing Adjacent.csproj", "{E1290164-5917-46AA-A126-C76B892DE00F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three Increasing Adjacent", "Three Increasing Adjacent\Three Increasing Adjacent.csproj", "{E1290164-5917-46AA-A126-C76B892DE00F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve Of Eratosthenes", "Sieve Of Eratosthenes\Sieve Of Eratosthenes.csproj", "{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sieve Of Eratosthenes", "Sieve Of Eratosthenes\Sieve Of Eratosthenes.csproj", "{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C Sharp Excercises Strings", "C Sharp Excercises Strings", "{4309517D-7E43-4F1C-AAF1-3FAFA4EEE68A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add seperator", "Add seperator\Add seperator.csproj", "{483F772B-E860-4328-8B47-923B492C406C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add seperator", "Add seperator\Add seperator.csproj", "{483F772B-E860-4328-8B47-923B492C406C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "Dice\Dice.csproj", "{9423A787-2C85-45FA-8A44-BD2105735828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{F96FDAB1-787E-477F-A955-5BB5A153459E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lenght Of String", "Lenght Of String\Lenght Of String.csproj", "{4F75567D-9F44-438C-A487-8E7825273917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String In Reverse Order", "String In Reverse Order\String In Reverse Order.csproj", "{37077C24-66F2-44E7-B66E-BA5631D0F7CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lommeregner", "Lommeregner\Lommeregner.csproj", "{98CE1B14-CBF3-4819-B42F-6B07E578F56F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +153,26 @@ Global
 		{483F772B-E860-4328-8B47-923B492C406C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{483F772B-E860-4328-8B47-923B492C406C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{483F772B-E860-4328-8B47-923B492C406C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9423A787-2C85-45FA-8A44-BD2105735828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9423A787-2C85-45FA-8A44-BD2105735828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9423A787-2C85-45FA-8A44-BD2105735828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9423A787-2C85-45FA-8A44-BD2105735828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96FDAB1-787E-477F-A955-5BB5A153459E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96FDAB1-787E-477F-A955-5BB5A153459E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96FDAB1-787E-477F-A955-5BB5A153459E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96FDAB1-787E-477F-A955-5BB5A153459E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F75567D-9F44-438C-A487-8E7825273917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F75567D-9F44-438C-A487-8E7825273917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F75567D-9F44-438C-A487-8E7825273917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F75567D-9F44-438C-A487-8E7825273917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37077C24-66F2-44E7-B66E-BA5631D0F7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37077C24-66F2-44E7-B66E-BA5631D0F7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37077C24-66F2-44E7-B66E-BA5631D0F7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37077C24-66F2-44E7-B66E-BA5631D0F7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CE1B14-CBF3-4819-B42F-6B07E578F56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CE1B14-CBF3-4819-B42F-6B07E578F56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CE1B14-CBF3-4819-B42F-6B07E578F56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CE1B14-CBF3-4819-B42F-6B07E578F56F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,6 +199,9 @@ Global
 		{E1290164-5917-46AA-A126-C76B892DE00F} = {E667CD3A-7914-4669-B112-C285587C973F}
 		{55D42C7D-19AA-46F9-AAE4-2E4A3A9C5EC4} = {E667CD3A-7914-4669-B112-C285587C973F}
 		{483F772B-E860-4328-8B47-923B492C406C} = {4309517D-7E43-4F1C-AAF1-3FAFA4EEE68A}
+		{F96FDAB1-787E-477F-A955-5BB5A153459E} = {4309517D-7E43-4F1C-AAF1-3FAFA4EEE68A}
+		{4F75567D-9F44-438C-A487-8E7825273917} = {4309517D-7E43-4F1C-AAF1-3FAFA4EEE68A}
+		{37077C24-66F2-44E7-B66E-BA5631D0F7CC} = {4309517D-7E43-4F1C-AAF1-3FAFA4EEE68A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B811C158-9E44-4F73-986E-11B9AA3633D3}
